@@ -1,3 +1,5 @@
+Installation of Docker on Ubuntu VM:
+
 gcloud commands to create vm:
 
 gcloud compute instances create ubuntuvm --create-disk=auto-delete=yes,boot=yes,image=projects/ubuntu-os-cloud/global/images/ubuntu-1804-bionic-v20211115 --zone us-central1-a --machine-type=e2-medium
